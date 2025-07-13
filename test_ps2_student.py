@@ -73,7 +73,6 @@ def compare_results(expected, actual):
     act = actual.strip()
     return almost_equal(exp, act)
 
-
 # A class that inherits from unittest.TestCase, where each function
 # is a test you want to run on the student's code. For a full description
 # plus a list of all the possible assert methods you can use, see the
