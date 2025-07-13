@@ -1,4 +1,4 @@
-# Problem Set 2, hangman.py
+# Problem-Set-2, hangman.py
 # Name: Chirag Sharma
 # Collaborators: None
 # Time spent:
